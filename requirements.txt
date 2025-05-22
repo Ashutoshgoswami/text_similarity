@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+scikit-learn
+pandas
+python-multipart
+# httptools
+# uvloop
+# gunicorn==19.9.0
